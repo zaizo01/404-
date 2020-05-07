@@ -1,6 +1,6 @@
 # 404
 
-> 404
+>Simple page error 404.
 
 ## Build Setup
 
